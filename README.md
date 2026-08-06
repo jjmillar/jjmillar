@@ -1,8 +1,8 @@
 
--# Hi, I'm Julián Millar 👋
+# Hi, I'm Julián Millar 👋
 +<div align="center">
  
--**Fullstack Developer · MERN · Freelance · Los Ángeles, Chile**
+**Fullstack Developer · MERN · Freelance · Los Ángeles, Chile**
 +# 👋 Hola, soy Julián Millar
 +
 +### Desarrollador Fullstack · MERN · Freelance
